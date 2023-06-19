@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/containers/HomePage/HomePage.tsx:53
+msgid "Application Lend And Learn gives students and employees of FIT CTU opportunity to share interesting technical devices with each other. Find a device you are interested in, make a booking and enjoy learning how it works."
+msgstr "Aplikace Lend And Learn poskytuje studentům a zaměstnancům FIT ČVUT možnost sdílet mezi sebou zajímavá technická zařízení. Najděte zařízení, které Vás zaujalo, proveďte rezervaci a seznamte se s tím, jak funguje."
+
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:67
+msgid "Approve"
+msgstr "Schválit"
+
+#: src/containers/Dashboard/MyDevices.tsx:69
+#: src/containers/Devices/Devices.tsx:137
+msgid "Available"
+msgstr "K dispozici"
+
+#: src/containers/DeviceProfile/DeviceProfile.tsx:83
+#: src/containers/Devices/Devices.tsx:148
+msgid "Book"
+msgstr "Rezervovat"
+
+#: src/containers/Devices/Devices.tsx:135
+msgid "Booked"
+msgstr "Rezervováno"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:34
+#: src/containers/CreateReservationDialog/CreateReservationDialog.tsx:78
+#: src/containers/EditDeviceDialog/EditDeviceDialog.tsx:39
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:72
+#: src/containers/OutcomingReservations/ReservationsCreated.tsx:63
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: src/modules/reservations/saga.ts:19
+#: src/modules/reservations/saga.ts:19
+msgid "Could not create reservation"
+msgstr "Nepovedlo se vytvořit rezervaci"
+
+#: src/modules/devices/saga.ts:80
+#: src/modules/devices/saga.ts:80
+msgid "Could not load device"
+msgstr "Nepovedlo se načíst zařízení"
+
+#: src/modules/devices/saga.ts:21
+#: src/modules/devices/saga.ts:21
+#: src/modules/devices/saga.ts:70
+#: src/modules/devices/saga.ts:70
+msgid "Could not load devices"
+msgstr "Nepovedlo se načíst zařízení"
+
+#: src/modules/reservations/saga.ts:30
+#: src/modules/reservations/saga.ts:30
+#: src/modules/reservations/saga.ts:41
+#: src/modules/reservations/saga.ts:41
+#: src/modules/reservations/saga.ts:85
+#: src/modules/reservations/saga.ts:85
+#: src/modules/reservations/saga.ts:96
+#: src/modules/reservations/saga.ts:96
+msgid "Could not load reservations"
+msgstr "Nepovedlo se načíst rezervace"
+
+#: src/modules/statistics/saga.ts:16
+#: src/modules/statistics/saga.ts:16
+msgid "Could not load statistics"
+msgstr "Nepovedlo se načíst statistiky"
+
+#: src/modules/users/saga.ts:15
+#: src/modules/users/saga.ts:15
+msgid "Could not load user"
+msgstr "Nepovedlo se načíst uživatele"
+
+#: src/modules/auth/saga.ts:23
+#: src/modules/auth/saga.ts:23
+msgid "Could not login"
+msgstr "Nepovedlo se přihlásit"
+
+#: src/modules/auth/saga.ts:33
+#: src/modules/auth/saga.ts:33
+msgid "Could not logout"
+msgstr "Nepovedlo se odhlásit"
+
+#: src/modules/users/saga.ts:27
+#: src/modules/users/saga.ts:27
+msgid "Could not update data"
+msgstr "Nepovedlo se aktualizovat údaje"
+
+#: src/modules/devices/saga.ts:91
+#: src/modules/devices/saga.ts:91
+msgid "Could not update device"
+msgstr "Nepovedlo se aktualizovat zařízení"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:37
+#: src/containers/CreateReservationDialog/CreateReservationDialog.tsx:81
+msgid "Create"
+msgstr "Vytvořit"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:26
+#: src/containers/Devices/Devices.tsx:112
+msgid "Create device"
+msgstr "Vytvořit zařízení"
+
+#: src/containers/CreateReservationDialog/CreateReservationDialog.tsx:60
+msgid "Create reservation"
+msgstr "Vytvořit rezervaci"
+
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:25
+#: src/containers/IncomingReservations/ReservationsToFinish.tsx:25
+#: src/containers/OutcomingReservations/ReservationsCreated.tsx:25
+#: src/containers/OutcomingReservations/ReservationsInProgress.tsx:24
+msgid "Date"
+msgstr "Datum"
+
+#: src/containers/DeviceProfile/DeviceProfile.tsx:81
+msgid "Delete"
+msgstr "Odstranit"
+
+#: src/modules/devices/saga.ts:33
+#: src/modules/devices/saga.ts:33
+msgid "Device could not be created"
+msgstr "Nepovedlo se vytvořit zařízení"
+
+#: src/modules/devices/saga.ts:58
+#: src/modules/devices/saga.ts:58
+msgid "Device could not be deleted"
+msgstr "Nepovedlo se odstranit zařízení"
+
+#: src/modules/devices/saga.ts:55
+#: src/modules/devices/saga.ts:55
+msgid "Device could not be deleted. You have some created or active reservations for this device"
+msgstr "Nepovedlo se odstranit zařízení. Pro toto zařízení jsou vytvořené nebo aktivní rezervace"
+
+#: src/containers/Devices/Devices.tsx:41
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:17
+#: src/containers/IncomingReservations/ReservationsToFinish.tsx:17
+#: src/containers/OutcomingReservations/ReservationsCreated.tsx:17
+#: src/containers/OutcomingReservations/ReservationsInProgress.tsx:16
+msgid "Device name"
+msgstr "Název zařízení"
+
+#: src/modules/devices/saga.ts:29
+#: src/modules/devices/saga.ts:29
+msgid "Device was created"
+msgstr "Zařízení bylo vytvořeno"
+
+#: src/modules/devices/saga.ts:50
+#: src/modules/devices/saga.ts:50
+msgid "Device was deleted"
+msgstr "Zařízení bylo odstraněno"
+
+#: src/containers/PageLayout/PageLayout.tsx:35
+msgid "Devices"
+msgstr "Zařízení"
+
+#: src/containers/DeviceProfile/DeviceProfile.tsx:89
+#: src/containers/EditDeviceDialog/EditDeviceDialog.tsx:42
+msgid "Edit"
+msgstr "Upravit"
+
+#: src/containers/EditDeviceDialog/EditDeviceDialog.tsx:31
+msgid "Edit device"
+msgstr "Upravit zařízení"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:30
+#~ msgid "Fill in description"
+#~ msgstr "Zdejte popis"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:30
+#: src/containers/EditDeviceDialog/EditDeviceDialog.tsx:35
+msgid "Fill in description (max. 2000 characters)"
+msgstr "Zadejte popis (max. 2000 znaků)"
+
+#: src/containers/CreateDeviceDialog/CreateDeviceDialog.tsx:29
+#: src/containers/EditDeviceDialog/EditDeviceDialog.tsx:34
+msgid "Fill in name"
+msgstr "Zadejte název"
+
+#: src/containers/IncomingReservations/ReservationsToFinish.tsx:63
+msgid "Finish"
+msgstr "Dokončit"
+
+#: src/containers/Dashboard/MyDevices.tsx:32
+msgid "Go to my devices"
+msgstr "Přehled mých zařízení"
+
+#: src/containers/PageLayout/PageLayout.tsx:39
+msgid "Incoming Reservations"
+msgstr "Příchozí Rezervace"
+
+#: src/containers/HomePage/HomePage.tsx:45
+msgid "Lend And Learn"
+msgstr "Lend And Learn"
+
+#: src/containers/Dashboard/MyDevices.tsx:57
+msgid "Lent"
+msgstr "Vypůjčeno"
+
+#: src/containers/HomePage/HomePage.tsx:61
+msgid "Login"
+msgstr "Přihlásit"
+
+#: src/components/TopBar/TopBar.tsx:44
+msgid "Logout"
+msgstr "Odhlásit"
+
+#: src/containers/Dashboard/MyDevices.tsx:27
+msgid "My devices"
+msgstr "Moje zařízení"
+
+#: src/containers/PageLayout/PageLayout.tsx:43
+msgid "Outcoming Reservations"
+msgstr "Odchozí Rezervace"
+
+#: src/containers/Devices/Devices.tsx:45
+#: src/containers/OutcomingReservations/ReservationsCreated.tsx:21
+#: src/containers/OutcomingReservations/ReservationsInProgress.tsx:20
+msgid "Owner"
+msgstr "Majitel"
+
+#: src/components/TopBar/TopBar.tsx:39
+msgid "Profile"
+msgstr "Profil"
+
+#: src/modules/reservations/saga.ts:52
+#: src/modules/reservations/saga.ts:52
+msgid "Reservation could not be approved"
+msgstr "Nepovedlo se schválit rezervaci"
+
+#: src/modules/reservations/saga.ts:63
+#: src/modules/reservations/saga.ts:63
+msgid "Reservation could not be canceled"
+msgstr "Nepovedlo se zrušit rezervaci"
+
+#: src/modules/reservations/saga.ts:74
+#: src/modules/reservations/saga.ts:74
+msgid "Reservation could not be finished"
+msgstr "Nepovedlo se ukončit rezervaci"
+
+#: src/modules/reservations/saga.ts:48
+#: src/modules/reservations/saga.ts:48
+msgid "Reservation was approved"
+msgstr "Rezervace byla schválena"
+
+#: src/modules/reservations/saga.ts:59
+#: src/modules/reservations/saga.ts:59
+msgid "Reservation was canceled"
+msgstr "Rezervace byla zrušena"
+
+#: src/modules/reservations/saga.ts:15
+#: src/modules/reservations/saga.ts:15
+msgid "Reservation was created"
+msgstr "Rezervace byla vytvořena"
+
+#: src/modules/reservations/saga.ts:70
+#: src/modules/reservations/saga.ts:70
+msgid "Reservation was finished"
+msgstr "Rezervace byla ukončena"
+
+#: src/containers/OutcomingReservations/ReservationsCreated.tsx:42
+msgid "Reservations created"
+msgstr "Vytvořené rezervace"
+
+#: src/containers/OutcomingReservations/ReservationsInProgress.tsx:37
+msgid "Reservations in progress"
+msgstr "Aktuálně probíhající rezervace"
+
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:46
+msgid "Reservations to approve"
+msgstr "Rezervace ke schválení"
+
+#: src/containers/IncomingReservations/ReservationsToFinish.tsx:42
+msgid "Reservations to finish"
+msgstr "Rezervace k dokončení"
+
+#: src/containers/CreateReservationDialog/CreateReservationDialog.tsx:69
+msgid "Select end date"
+msgstr "Vyberte datum začátku"
+
+#: src/containers/CreateReservationDialog/CreateReservationDialog.tsx:66
+msgid "Select start date"
+msgstr "Vyberte datum konce"
+
+#: src/containers/Profile/Profile.tsx:42
+msgid "Send email"
+msgstr "Poslat email"
+
+#: src/containers/Devices/Devices.tsx:117
+msgid "Show only my devices"
+msgstr "Zobrazit pouze vlastní zařízení"
+
+#: src/containers/Devices/Devices.tsx:49
+msgid "Today status"
+msgstr "Dnešní stav"
+
+#: src/containers/Profile/Profile.tsx:45
+msgid "Update information"
+msgstr "Aktualizovat údaje"
+
+#: src/containers/IncomingReservations/ReservationsToApprove.tsx:21
+#: src/containers/IncomingReservations/ReservationsToFinish.tsx:21
+msgid "User"
+msgstr "Uživatel"
+
+#: src/modules/users/saga.ts:23
+#: src/modules/users/saga.ts:23
+msgid "User data were updated"
+msgstr "Uživatelské údaje byly aktualizovány"
+
+#: src/containers/Dashboard/MyDevices.tsx:45
+msgid "Whole count"
+msgstr "Celkový počet"
+
+#: src/api/http.ts:26
+msgid "You've been logged out due to unauthorized request"
+msgstr "Byl/a jste odhlášen/a kvůli neautorizovanému dotazu"
